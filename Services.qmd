@@ -1,0 +1,21 @@
+---
+title: "Services"
+---
+
+-   Test development
+
+-   Test validation
+
+-   Training
+
+-   Consultation
+
+-   Tests that we have authored or co-authored
+
+    -   Work Related Risk and Integrity Scale ([WRISc](https://jvrafricagroup.co.za/catalogue/wrisc))
+
+    -   Basic Traits Inventory ([BTI](https://jvrafricagroup.co.za/catalogue/basic-traits-inventory))
+
+    -   Sources of Work Stress Inventory ([SWSI](https://jvrafricagroup.co.za/catalogue/swsi))
+
+    -   South African Career Interest Inventory (SACII)

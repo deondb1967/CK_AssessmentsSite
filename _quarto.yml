@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "CK Assessments"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Services.qmd
+      - GWSS.qmd
+      - about.qmd
+      - Contact.qmd
+
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,17 @@
+---
+title: "General Work Stress Scale"
+---
+
+The General Work Stress Scale is a 9-item measure of subjectively experienced work stress. It forms part of the [Sources of Work Stress Inventory](https://jvrafricagroup.co.za/catalogue/swsi) (SWSI). Whereas the SWSI is copyrighted and distributed by [JVR Psychometrics](https://jvrafricagroup.co.za/), the General Work Stress Scale is made available for free.
+
+| Item |                                                                                    | Never | Rarely | Sometimes | Often | Always |
+|----------|-------------------------------------------------------|------------|------------|-------------|------------|------------|
+| 1\.  | Does work make you so stressed that you wish you had a different job?              | 1     | 2      | 3         | 4     | 5      |
+| 2\.  | Do you get so stressed at work that you want to quit?                              | 1     | 2      | 3         | 4     | 5      |
+| 3\.  | Do you worry about having to wake up and go to work in the morning?                | 1     | 2      | 3         | 4     | 5      |
+| 4\.  | Do you find it difficult to sleep at night because you worry about your work?      | 1     | 2      | 3         | 4     | 5      |
+| 5\.  | Do you get so stressed at work that you forget to do important tasks?              | 1     | 2      | 3         | 4     | 5      |
+| 6\.  | Does work make you so stressed that you find it hard to concentrate on your tasks? | 1     | 2      | 3         | 4     | 5      |
+| 7\.  | Do you spend a lot of time worrying about your work?                               | 1     | 2      | 3         | 4     | 5      |
+| 8\.  | Do you feel like you cannot cope with your work anymore?                           | 1     | 2      | 3         | 4     | 5      |
+| 9\.  | Does work make you so stressed that you lose your temper?                          | 1     | 2      | 3         | 4     | 5      |
